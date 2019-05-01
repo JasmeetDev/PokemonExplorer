@@ -1,0 +1,6 @@
+framework module Pods_PokeMon_ExplorerTests {
+  umbrella header "Pods-PokeMon ExplorerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
